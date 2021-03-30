@@ -2,7 +2,7 @@ Comment s'appelle la branche par défaut d'un dépôt git ?
 Comment changer de branche sous git ?
 Quelle commande me permet de récupérer un dépôt local à partir d'un dépôt distant ?
 Comment vérifier l'état de l'index de son dépôt local ?
-Quel enchaînement de commandes me permet de sauvegarder une version de code en local ?
+Quel enchaînement de commandes me permet de versionner du code en local ?
 Comment afficher la liste des commits effectués sur la branche en cours ?
 Quelle commande permet de se placer à la racine du système de fichier ?
 Quelle commande permet de se placer dans le dossier personnel de l'utilisateur courant ?
