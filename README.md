@@ -76,8 +76,8 @@ Tu peux éditer le fichier manuellement pour ajouter tes réponses.
 
 ## V. Finalisation
 
+Envoie à ton formateur ton nom de compte GitHub afin qu'il t'autorise sur le dépôt.
+
 Envoie les modifications de ta branche locale et pousse ces modifications sur le dépôt distant.
 
 Dans GitHub, vérifie que la branche existe et que tes modifications sont bien présentes.
-
-Tu peux revenir dans Odyssey et partager le lien vers ta branche sur GitHub.
