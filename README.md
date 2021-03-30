@@ -14,7 +14,7 @@ Dans ton dépôt local, crée une branche ayant le format suivant : la ville de 
 
 ### 2. .gitignore
 
-Crée le fichier _.gitignore_ dans la racine du projet, afin d'ignorer tous le dossier `node_modules`.
+Crée le fichier _.gitignore_ dans la racine du projet, afin d'ignorer le dossier `node_modules`.
 
 ## II. HTML/CSS
 
